@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c13c0bc7-db8b-4a13-9535-abb3f82f0b49" name="Changes" comment="백준 5585" />
+    <list default="true" id="c13c0bc7-db8b-4a13-9535-abb3f82f0b49" name="Changes" comment="백준 5585">
+      <change beforePath="$PROJECT_DIR$/../Day13_Problem3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day13_Problem3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day13_Problem4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day13_Problem4/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
